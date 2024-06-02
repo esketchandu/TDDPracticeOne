@@ -1,7 +1,6 @@
 const { expect } = require('chai');
 const reverseWords = require("../reversearry.js");
-//const { it } = require('mocha');
-//const { describe } = require('mocha');
+
 
 describe("reverseWords", () => {
   it("should return the reverse of the word array", () => {
